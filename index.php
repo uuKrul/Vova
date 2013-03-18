@@ -6,5 +6,6 @@
  * 
  */
 echo "ExaMPLE";
+echo "-------";
 
 ?>
